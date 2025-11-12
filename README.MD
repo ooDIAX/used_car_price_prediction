@@ -11,7 +11,7 @@ Note: The model is trained on 2024 data, so predictions will reflect 2024 prices
 ### **How to setup and run**
 
 1.  Clone repository
-`git clone https://github.com/ooDIAX/CarPricePrediction.git`
+`git clone https://github.com/ooDIAX/used_car_price_prediction.git`
 
 2. Install all the required dependencies from /requirements.txt 
 `pip install -r requirements.txt`
